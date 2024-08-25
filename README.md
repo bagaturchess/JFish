@@ -10,4 +10,4 @@ If you like the project, please give it a star! :-)
 
 # UCI Options
 
-See [Bagatur UCI options](https://github.com/bagaturchess/Bagatur#UCI Options)
+![Bagatur UCI options](https://github.com/bagaturchess/Bagatur#UCI Options)
