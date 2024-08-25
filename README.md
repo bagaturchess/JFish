@@ -8,9 +8,14 @@ Currently (2024) it pretends to be the strongest Java chess engine in the world.
 
 If you like the project, please give it a star! :-)
 
+# Source code
+This repository contains only the binaries under the release section.
+If you need the sources please refer to the <a href="https://github.com/bagaturchess/Bagatur">Bagatur Chess Engine</a>
+JFish is actually a compilation of Bagatur with different flavour/configuration.
+
 # Downloads for desktop computer
 
-Could be found as a standard github release <a href="https://github.com/bagaturchess/JFish/releases">here</a>.
+Downloads could be found as a standard github release <a href="https://github.com/bagaturchess/JFish/releases">here</a>.
 
 # Running it
 
