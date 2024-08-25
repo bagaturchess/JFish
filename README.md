@@ -4,13 +4,13 @@
 
 This is an attempt to make a Java port of the well known chess engine Stockfish.
 It uses the Stockfish NNUE via JNI and all other Java code is based on the chess engine Bagatur.
-It pretends to be the strongest Java chess engine in the world. Let's see ...
+Currently (2024) it pretends to be the strongest Java chess engine in the world.
 
 If you like the project, please give it a star! :-)
 
 # Downloads for desktop computer
 
-Download it as a standard github release <a href="https://github.com/bagaturchess/JFish/releases">here</a>.
+Could be found as a standard github release <a href="https://github.com/bagaturchess/JFish/releases">here</a>.
 
 # Running it
 
@@ -29,7 +29,7 @@ See [Bagatur UCI options](https://github.com/bagaturchess/Bagatur#UCI-Options)
 
 # Syzygy Endgame Tablebases
 
-The download of JFish contains subset of syzygy tablebases placed under ./data/egtb/ directory. It contaiuns 22 of the most common endgames with up to 5 pieces. By default the option 'SyzygyPath' is set to this directory. You could change this UCI option if you have complete or bigger set of syzygy tablebases donwloaded on your computer.
+The download of JFish contains subset of syzygy tablebases placed under ./data/egtb/ directory. It contaiuns 22 of the most common endgames with up to 5 pieces. By default the option 'SyzygyPath' is set to this directory. You could change this UCI option if you have complete or bigger set of syzygy tablebases downloaded on your computer.
 
 # Credits
 
