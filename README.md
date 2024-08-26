@@ -8,11 +8,6 @@ Currently (2024) it pretends to be the strongest Java chess engine in the world.
 
 If you like the project, please give it a star! :-)
 
-# Source code
-This repository contains only the binaries under the release section.
-If you need the sources please refer to the <a href="https://github.com/bagaturchess/Bagatur">Bagatur Chess Engine</a>
-JFish is actually a compilation of Bagatur with different flavour/configuration.
-
 # Downloads for desktop computer
 
 Downloads could be found as a standard github release <a href="https://github.com/bagaturchess/JFish/releases">here</a>.
@@ -35,6 +30,14 @@ See [Bagatur UCI options](https://github.com/bagaturchess/Bagatur#UCI-Options)
 # Syzygy Endgame Tablebases
 
 The download of JFish contains subset of syzygy tablebases placed under ./data/egtb/ directory. It contaiuns 22 of the most common endgames with up to 5 pieces. By default the option 'SyzygyPath' is set to this directory. You could change this UCI option if you have complete or bigger set of syzygy tablebases downloaded on your computer.
+
+# Source code
+This repository contains only the binaries under the release section.
+If you need the sources please refer to the <a href="https://github.com/bagaturchess/Bagatur">Bagatur Chess Engine</a>
+JFish is actually a compilation of Bagatur with different flavour/configuration.
+The different code is for the integration with Stockfish NNUE and could be found
+<a href="https://github.com/bagaturchess/Bagatur/tree/master/NNUE/src/bagaturchess/nnue_v5">here</a>
+and <a href="https://github.com/bagaturchess/Bagatur/tree/master/LearningImpl/src/bagaturchess/deeplearning/impl_nnue_v2b">here</a>.
 
 # Credits
 
