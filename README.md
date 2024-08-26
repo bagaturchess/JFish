@@ -33,7 +33,7 @@ The download of JFish contains subset of syzygy tablebases placed under ./data/e
 
 # Source code
 This repository contains only the binaries under the release section.
-If you need the sources please refer to the <a href="https://github.com/bagaturchess/Bagatur">Bagatur Chess Engine</a>
+If you need the sources please refer to the <a href="https://github.com/bagaturchess/Bagatur">Bagatur Chess Engine</a>.
 JFish is actually a compilation of Bagatur with different flavour/configuration.
 The different code is for the integration with Stockfish NNUE and could be found
 <a href="https://github.com/bagaturchess/Bagatur/tree/master/NNUE/src/bagaturchess/nnue_v5">here</a>
